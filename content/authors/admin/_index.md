@@ -21,9 +21,9 @@ organizations:
 bio: I'm an evolutionary anthropologist/psychologist who studies humans, lemurs, and the biological bases of behavior.
 
 interests:
-- Behavioral Endocrinology
-- Evolutionary biology
-- Open Science
+- Behavioral endocrinology
+- Evolutionary biology/psychology
+- Reproducibility & transparency in science
 
 education:
   courses:

@@ -1,5 +1,5 @@
-#---
-#title: Recent & Upcoming Talks
+---
+title: Eulemur as a Primate Model for Oxytocin System Evolution & Function
 
 # View.
 #   1 = List
@@ -10,5 +10,5 @@
 # Optional header image (relative to `static/img/` folder).
 #header:
 #  caption: ""
-#  image: ""
+#  image: "ariaanhotep.jpg"
 #---
