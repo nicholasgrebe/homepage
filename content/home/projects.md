@@ -46,6 +46,7 @@ subtitle = ""
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
 
+  
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
