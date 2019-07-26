@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Publications"
-subtitle = ""
+title = "Recent Publications"
+subtitle = "(see [my CV](https://nicholasgrebe.netlify.com/cv.pdf/) for a full list)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -36,7 +36,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.
