@@ -1,5 +1,5 @@
 ---
-title: "Gangestad, S. W., Dinh, T., Grebe, N. M., Del Giudice, M., & Thompson, M. E. (2019). Psychological cycle shifts redux: Revisiting a preregistered study examining preferences for muscularity. Evolution and Human Behavior."
+title: "Gangestad, S.W., Dinh, T., Grebe, N.M., Del Giudice, M., & Thompson, M.E. (2019). Psychological cycle shifts redux: Revisiting a preregistered study examining preferences for muscularity. Evolution and Human Behavior."
 abstract: "Jünger et al. (2018) conducted a preregistered study examining whether women particularly prefer
 muscular bodies when conceptive in their cycles. Despite an impressive number of participants and
 within-woman observations, they found no evidence for a preference shift; rather, they claimed,

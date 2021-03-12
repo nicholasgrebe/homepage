@@ -1,5 +1,5 @@
 ---
-title: "Grebe, N. M., Kristoffersen, A. A., Grøntvedt, T. V., Thompson, M. E., Kennair, L. E. O., & Gangestad, S. W. (2017). Oxytocin and vulnerable romantic relationships. Hormones and Behavior, 90, 64-74."
+title: "Grebe, N.M., Kristoffersen, A.A., Grøntvedt, T.V., Thompson, M.E., Kennair, L.E.O., & Gangestad, S.W. (2017). Oxytocin and vulnerable romantic relationships. Hormones and Behavior, 90, 64-74."
 abstract: "Oxytocin (OT) has been implicated in the formation and maintenance of various social relationships, including
 human romantic relationships. Competing models predict, alternatively, positive or negative associations between
 naturally-occurring OT levels and romantic relationship quality. Empirical tests of these models have
