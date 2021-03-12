@@ -14,7 +14,7 @@ view: 2
 #Optional header image (relative to `static/img/` folder).
 header:
   caption: "A figure from a recent review of the ManyPrimates project, (https://psyarxiv.com/8w7zd/), showing the imbalanced nature of primate cognition research"
-  image: "MP Figure.jpg"
+  image: "MP Figure.png"
   
 image:
   preview_only: true
