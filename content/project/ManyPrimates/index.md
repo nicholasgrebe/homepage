@@ -1,6 +1,6 @@
 ---
 title: Collaboration and Transparency in Primate Cognition Research
-summary: What can lemurs tell us about the biology of pair-bonding and sociality?
+summary: How can we leverage the open science movement to best understand the evolution of cognition in primates?
 date: "2021-03-12"
 
 #View
