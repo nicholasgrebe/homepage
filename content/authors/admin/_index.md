@@ -14,11 +14,11 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Duke University
+- name: University of Michigan
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm an evolutionary anthropologist/psychologist who studies humans, lemurs, and the biological bases of behavior.
+bio: I'm an evolutionary anthropologist/psychologist who studies primates big and small, and the biological bases of behavior.
 
 interests:
 - Behavioral endocrinology
@@ -69,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a postdoctoral researcher in the [Department of Evolutionary Anthropology at Duke University](https://evolutionaryanthropology.duke.edu/), and member of the [Drea Lab](http://drealab.weebly.com). My research interests focus on the evolution of social and mating behavior, with a particular emphasis on hormonal mechanisms. I'm a big believer in the value of interdisciplinary perspectives--my work combines methods from social psychology, comparative neuroscience, ethology, and evolutionary biology. Currently, I'm working on an NSF-funded project that investigates the role of oxytocin in the evolution of lemur social behavior.
+I'm a postdoctoral researcher in the [Department of Anthropology at the University of Michigan](https://lsa.umich.edu/anthro), and member of the [Rosenbaum Lab](https://www.primatebehaviorlab.com/). My research interests focus on the evolution of social and mating behavior, with a particular emphasis on hormonal mechanisms. I'm a big believer in the value of interdisciplinary perspectives--in my work, I draw from theory and methods in social psychology, comparative neuroscience, ethology, and evolutionary biology. I have ongoing research projects regarding the interplay between hormones and pair-bonding in human couples; the role of oxytocin in the evolution of lemur social behavior; increasing openness, transparency, and collaboration in the behavioral sciences; and the physiology and form of gorilla social relationships.
 
 
