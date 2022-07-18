@@ -19,6 +19,9 @@ existing assumptions and informs proposed evolutionary explanations about the bi
 monogamy."
 url_pdf:  "Grebe-brain.pdf"
 date: "2021-02-21"
+links: 
+- name: Data + Code
+  url: https://osf.io/rymz5/
 
 
 # View.
