@@ -1,5 +1,5 @@
 ---
-title: "Grebe, N.M., Sharma, A., Freeman, S.M., Palumbo, M.C., Bales, K.L., Patisaul, H.B., & Drea, C.M. (2021). Neural Correlates of Mating System Diversity: Oxytocin and Vasopressin Receptor Distributions in Monogamous and Non-Monogamous 𝘌𝘶𝘭𝘦𝘮𝘶𝘳. Scientific Reports, 11, 3746."
+title: "Grebe, N.M., Sharma, A., Freeman, S.M., Palumbo, M.C., Bales, K.L., Patisaul, H.B., & Drea, C.M. (2021). Neural Correlates of Mating System Diversity: Oxytocin and Vasopressin Receptor Distributions in Monogamous and Non-Monogamous Eulemur. Scientific Reports, 11, 3746."
 abstract: "Contemporary theory that emphasizes the roles of oxytocin and vasopressin in mammalian sociality
 has been shaped by seminal vole research that revealed interspecific variation in neuroendocrine
 circuitry by mating system. However, substantial challenges exist in interpreting and translating
