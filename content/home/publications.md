@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = "(see [my CV](https://nicholasgrebe.netlify.com/cv.pdf/) for a full list)"
+subtitle = "(see [my CV](https://docs.google.com/document/d/1tNIaPz1jZVssJlmtk86EiNbwNc9dlwH3/edit) for a full list)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
