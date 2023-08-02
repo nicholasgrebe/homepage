@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'nicholasgrebe@gmail.com' 
+  link: mailto:nicholasgrebe@gmail.com 
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/nm_grebe
