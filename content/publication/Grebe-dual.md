@@ -1,5 +1,5 @@
 ---
-title: "Grebe, N.M., Del Giudice, M., Thompson, M.E., Nickels, N., Ponzi, D., Zilioli, S., Maestripieri, D., & Gangestad, S.W. (2019). Testosterone, cortisol, and status-striving personality features: A review and empirical evaluation of the Dual Hormone hypothesis. *Hormones and Behavior, 109*, 25-37."
+title: "Grebe, N.M., Del Giudice, M., Thompson, M.E., Nickels, N., Ponzi, D., Zilioli, S., Maestripieri, D., & Gangestad, S.W. (2019). Testosterone, cortisol, and status-striving personality features: A review and empirical evaluation of the Dual Hormone hypothesis. Hormones and Behavior, 109, 25-37."
 abstract: "Decades of research in behavioral endocrinology has implicated the gonadal hormone testosterone in the regulation
 of mating effort, often expressed in primates in the form of aggressive and/or status-striving behavior.
 Based on the idea that neuroendocrine axes influence each other, recent work among humans has proposed that
