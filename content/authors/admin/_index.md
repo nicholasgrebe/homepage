@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "nicholas.grebe@gmail.com".
+  link: 'nicholasgrebe@gmail.com' 
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/nm_grebe
